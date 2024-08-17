@@ -66,11 +66,14 @@ shading interp;
 ![Plotting 3D Signals](./plot_3d.svg)
 
 ## Papers
+<a id="3">[4]</a> 
+B. A. Alsaify, M. M. Almazari, R. Alazrai, O. Y. Al-Jarrah and W. A. Zibideh, "WiFi Signals for Passive Human Identification: A Study of Three Activities," in IEEE Access, doi: https://doi.org/10.1109/ACCESS.2024.3443231
+
 <a id="3">[3]</a> 
 Alsaify BA, Almazari MM, Alazrai R, Alouneh S, Daoud MI. A CSI-Based Multi-Environment Human Activity Recognition Framework. Applied Sciences. 2022; 12(2):930. https://doi.org/10.3390/app12020930
 
 <a id="2">[2]</a> 
-B. A. Alsaify, M. M. Almazari, R. Alazrai and M. I. Daoud, "Exploiting Wi-Fi Signals for Human Activity Recognition," 2021 12th International Conference on Information and Communication Systems (ICICS), 2021, pp. 245-250, doi: 10.1109/ICICS52457.2021.9464613.
+B. A. Alsaify, M. M. Almazari, R. Alazrai and M. I. Daoud, "Exploiting Wi-Fi Signals for Human Activity Recognition," 2021 12th International Conference on Information and Communication Systems (ICICS), 2021, pp. 245-250, doi: https://doi.org/10.1109/ICICS52457.2021.9464613.
 
 <a id="1">[1]</a> 
 Baha’ A. Alsaify, Mahmoud M. Almazari, Rami Alazrai, Mohammad I. Daoud, A dataset for Wi-Fi-based human activity recognition in line-of-sight and non-line-of-sight indoor environments, Data in Brief, Volume 33, 2020, 106534, ISSN 2352-3409, https://doi.org/10.1016/j.dib.2020.106534.
